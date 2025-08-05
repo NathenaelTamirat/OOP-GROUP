@@ -3,7 +3,7 @@
 
 package model;
 
-import abstract.Person;
+import model.Person;
 
 public class User extends Person {
     private String password;
