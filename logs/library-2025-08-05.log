@@ -1,0 +1,22 @@
+[2025-08-05 08:54:30] WARNING: Resource configuration file not found, using defaults
+[2025-08-05 08:54:30] INFO: Default configuration properties loaded
+[2025-08-05 08:54:30] INFO: File WRITE: config/config.properties [SUCCESS]
+[2025-08-05 08:54:30] INFO: Configuration saved successfully
+[2025-08-05 08:54:30] INFO: Default configuration file created: config/config.properties
+[2025-08-05 08:54:30] INFO: Configuration loaded successfully
+[2025-08-05 08:54:30] INFO: === Library Management System Started ===
+[2025-08-05 08:54:30] INFO: Log level: INFO
+[2025-08-05 08:54:30] INFO: Log directory: /Users/nati.t/Documents/library-management-system/logs
+[2025-08-05 08:56:47] INFO: User [admin]: Logged in successfully
+[2025-08-05 08:56:47] INFO: User [admin]: Logged in successfully
+[2025-08-05 08:56:47] INFO: Status: Search completed - 0 books found
+[2025-08-05 08:56:47] INFO: Status: Welcome to Library Management System - admin
+[2025-08-05 08:56:47] INFO: Sample data loaded successfully
+[2025-08-05 08:56:47] INFO: Status: Sample data loaded - Ready to use
+[2025-08-05 08:56:54] INFO: Status: Book Management - 3 books in system
+[2025-08-05 08:56:54] INFO: Status: Search completed - 3 books found
+[2025-08-05 08:56:55] INFO: Status: Book Management - 3 books in system
+[2025-08-05 08:56:55] INFO: Status: Search completed - 3 books found
+[2025-08-05 08:56:55] INFO: Status: User Management - 3 users in system
+[2025-08-05 08:56:56] INFO: Status: Loan Management - 1 loans in system
+[2025-08-05 08:56:57] INFO: Status: Request Management - 0 requests in system
